@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">BaseNav3DebugSetup</string>
+    <string name="app_name">AndroidVideos</string>
+    <string name="description">notification</string>
+    <string name="channel_name">deeplinkNotificationChannel</string>
 </resources>
